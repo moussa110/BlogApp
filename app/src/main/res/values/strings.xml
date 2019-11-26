@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Photos Blog App</string>
+    <string name="hint_email">Your Email_</string>
+    <string name="hint_password">Password_</string>
+    <string name="login_btn_text">login to account</string>
+    <string name="login_reg_btn_text">need a new account</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_accountsettings_text">Account Settings</string>
+    <string name="action_logout_text">logout</string>
+    <string name="reg_email_text">Your Email_</string>
+    <string name="reg_password">Your Password_</string>
+    <string name="reg_passConfirm">Confirm Password_</string>
+    <string name="reg_regbtn">Create New Account</string>
+    <string name="reg_loginbtn">Already have an account?</string>
+    <string name="setup_name_hint">Enter your name_</string>
+    <string name="setup_btn">Save Account Settings</string>
+    <string name="new_post_descrip_hint">Add Description</string>
+    <string name="post_btn_text">Post</string>
+    <string name="bootom_home_text">Home</string>
+    <string name="bootom_notifica_text">Notification</string>
+    <string name="bootom_acc_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
